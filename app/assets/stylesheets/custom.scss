@@ -1,0 +1,33 @@
+body {
+	display: flex;
+	flex-direction: column;
+	margin-top: 40px;
+}
+
+.main {
+	width: 800px;
+	margin: auto;
+	border: solid crimson 1px;
+	display: flex;
+}
+
+/* Header */
+header {
+	width: 800px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1px;
+}
+
+
+/* construction */
+
+.form {
+	background-color: #999;
+}
+
+.right {
+	background-color: #DDD;
+}
